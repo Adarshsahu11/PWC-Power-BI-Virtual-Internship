@@ -27,3 +27,32 @@
 ![Diversity   Conclusion_task3 -1](https://github.com/user-attachments/assets/ca33d183-d488-4f9e-bdda-3465836e5a8e)
 ![Diversity   Conclusion_task3 -2](https://github.com/user-attachments/assets/d0c6e8a3-49d0-4f8e-bac9-c6bbcdade4b8)
 
+
+► During this program, I strengthened my Power BI skills to better understand clients and their data visualization needs :-
+
+➼ 𝑫𝒂𝒕𝒂 𝑽𝒊𝒔𝒖𝒂𝒍𝒊𝒛𝒂𝒕𝒊𝒐𝒏 𝑴𝒂𝒔𝒕𝒆𝒓𝒚 :
+
+Explored Power BI intricacies, mastering advanced visualization techniques.
+
+➼𝑷𝒓𝒂𝒄𝒕𝒊𝒄𝒂𝒍 𝑫𝒂𝒕𝒂 𝑨𝒏𝒂𝒍𝒚𝒔𝒊𝒔 :
+
+Applied theoretical knowledge to real datasets, refining analytical skills.
+
+➼ 𝑺𝒕𝒓𝒂𝒕𝒆𝒈𝒊𝒄 𝑰𝒏𝒔𝒊𝒈𝒉𝒕 𝑬𝒙𝒕𝒓𝒂𝒄𝒕𝒊𝒐𝒏 :
+
+Learned to extract actionable insights from complex data, driving strategic decision-making.
+
+➼ 𝑰𝒏𝒏𝒐𝒗𝒂𝒕𝒊𝒗𝒆 𝑷𝒓𝒐𝒃𝒍𝒆𝒎 𝑺𝒐𝒍𝒗𝒊𝒏𝒈 :
+
+Developed creative solutions to data challenges, fostering innovative thinking.
+
+➼ 𝑬𝒇𝒇𝒆𝒄𝒕𝒊𝒗𝒆 𝑪𝒐𝒎𝒎𝒖𝒏𝒊𝒄𝒂𝒕𝒊𝒐𝒏 𝒐𝒇 𝑭𝒊𝒏𝒅𝒊𝒏𝒈𝒔:
+
+Acquired skills in conveying insights clearly and persuasively, enhancing communication effectiveness.
+
+➼ 𝑭𝒖𝒕𝒖𝒓𝒆 𝑭𝒐𝒄𝒖𝒔𝒆𝒅 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈 :
+
+Positioned for success with practical skills applicable across industries.
+
+✅ Thanks to Forage and PwC for giving me this incredible opportunity to work on amazing datasets and build data visualization reports and KPI visualizations.✨
+
